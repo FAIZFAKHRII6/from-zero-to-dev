@@ -123,5 +123,6 @@
   .hero-graphic {
     height: 300px;
     width: 100%;
+    transform: scale(0.7);
   }
 }
