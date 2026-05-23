@@ -100,10 +100,20 @@
   .hero {
     flex-direction: column-reverse !important;
     text-align: center;
+    padding-top: 6rem;
+    gap: 2rem;
+  }
+  
+  .name {
+    font-size: 2.5rem;
+  }
+
+  .title {
+    font-size: 1.5rem;
   }
   
   .description {
-    margin: 0 auto 2.5rem auto;
+    margin: 0 auto 2rem auto;
   }
   
   .cta-buttons {

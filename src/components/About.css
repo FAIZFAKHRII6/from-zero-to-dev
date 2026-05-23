@@ -82,4 +82,7 @@
   .about-content {
     grid-template-columns: 1fr;
   }
+  .about-text {
+    padding: 1.5rem;
+  }
 }
